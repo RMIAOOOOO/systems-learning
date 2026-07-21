@@ -19,7 +19,7 @@ Learning Journey
 
 | Phase                                        | Status |
 | -------------------------------------------- | ------ |
-| [ ] Phase 1 — C++ & Computer Architecture    | 0%     |
+| [ ] Phase 1 — C++ & Computer Architecture    | 5%     |
 | [ ] Phase 2 — Operating Systems              | 0%     |
 | [ ] Phase 3 — Linux Programming              | 0%     |
 | [ ] Phase 4 — Linux Kernel                   | 0%     |

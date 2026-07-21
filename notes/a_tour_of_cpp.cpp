@@ -29,9 +29,23 @@ void basics() {
     }
 }
 
+void structures() {
+    class Board {
+    public:
+        Board(int num): board_chess{new int[num]}, sz{num} {}
+        int& operator[](int i) { return board_chess[i];}
+        int size() {return sz;}
+    private:
+        int* board_chess;
+        int sz;
+    };
+}
+
 int main() {
 
-    basics();
+    // basics();
+
+    // structures();
 
     return 0;
 }

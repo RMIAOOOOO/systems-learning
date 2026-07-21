@@ -1,6 +1,6 @@
 # A Tour of C++
 
-# 1. The Basics
+## 1. The Basics
 
 - Programs
   - source file -> (compiler) -> object file -> (linker) -> executable
@@ -25,3 +25,10 @@
     - `for (auto val : {1, 2, 3})`
   - auto thoruugh reference
     - `for (auto &val : val_array)`
+
+## 2. Structures
+- Member initializer
+  - `Class_name (int s) : member1_name {member1_new_val}, member2_name {member2_new_val} {}`
+
+- enum class
+  - `enum class Stage { one_one, one_two, one_three };`
